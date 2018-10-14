@@ -1,3 +1,21 @@
-head {
-  color: red;
+@import url(https://fonts.googleapis.com/css?family=lato:300,500);
+html, body {
+	text-align: center;
+	background-color: red;
+	font-family: lato, Helvetica;
+	margin: 0 auto;
+}
+
+header{
+  	background-color: white;  	  	
+  	margin: 0;
+  	overflow: auto;
+}
+
+h1 {
+	margin: 10px 0px 10px 0px;
+}
+
+#title {
+	font-weight: bold;
 }
